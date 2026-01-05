@@ -15,6 +15,4 @@ Focus trapping in modal dialogs is a critical feature to ensure accessibility, c
 When using Dialog or Popup composables, focus is automatically moved to the first focusable element. However, focus can get "stuck" on the last element when using the Tab key, requiring users to press Shift+Tab to move backward if the device allows for it.
 
 
-[![Watch the video](https://path-to-your-thumbnail.png)]([https://github.com/user/repo/blob/main/video.mp4](https://github.com/raison00/TextFieldTraversalFocusAndroidDiscovery/blob/main/TrappedFocus.mp4))
-
-[![Watch the video]([https://youtube.com/shorts/vGja2tnDNII?si=B_HizqKKwoZa7JEK))
+[![Watch the video](https://private-user-images.githubusercontent.com/8105802/524540744-1114a814-c140-4d06-a938-efd6f27938bd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc2NTQ4MTcsIm5iZiI6MTc2NzY1NDUxNywicGF0aCI6Ii84MTA1ODAyLzUyNDU0MDc0NC0xMTE0YTgxNC1jMTQwLTRkMDYtYTkzOC1lZmQ2ZjI3OTM4YmQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDEwNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMDVUMjMwODM3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDMyM2MwYjBlMDQzODEwNTAwM2Y2ZjA1ZGY1NDUwZjkzZmM0NGY3ODUzMzkxMDJjZDJmNDFjY2Y5YmJlYzY1OCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.d60celuAHxJS1LaZpG_lbt3jQ9XZ9RddR0YKa6Xlm_0)](https://github.com/raison00/TextFieldTraversalFocusAndroidDiscovery/blob/main/TrappedFocus.mp4)
